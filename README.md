@@ -14,7 +14,7 @@ This project demonstrates my ability to clean and standardize data using SQL. Th
 
 ## Files Included
 - `data cleaning project.sql`: The complete SQL script for cleaning the dataset.
-- `layoffs.csv`: The raw dataset before cleaning ( sourced from KAGGLE).
+- `layoffs.csv`: The raw dataset before cleaning (sourced from KAGGLE).
 
 ## Steps in the Process
 1. **Removing Duplicates**: Identified and removed duplicate rows using `ROW_NUMBER()`.
