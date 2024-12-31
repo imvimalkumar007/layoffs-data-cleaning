@@ -1,4 +1,4 @@
-# layoffs_data_analysis
+Layoffs_Data_Analysis 
 
 An SQL project for cleaning and standardising layoff data.
 
