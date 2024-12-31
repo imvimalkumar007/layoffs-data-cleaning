@@ -1,8 +1,4 @@
-Layoffs_Data_Analysis 
-
-An SQL project for cleaning and standardising layoff data.
-
-# Layoffs Data Cleaning Project
+# SQL Project: Layoffs Data Analysis #1
 
 ## Overview
 This project demonstrates my ability to clean and standardize data using SQL. The dataset contains information about layoffs across industries, including company names, industries, and layoff statistics. Using SQL, I cleaned and prepared the data for analysis by removing duplicates, handling missing values, standardizing formats, and restructuring the dataset.
